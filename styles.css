@@ -1,8 +1,10 @@
 body{
     color: crimson;
     background: black;
+    margin: 0px;
 }
 
 header{
-    border: solid 4px crimson;
+    border-bottom:  solid 4px crimson;
+    margin: 20px;
 }
